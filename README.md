@@ -14,12 +14,6 @@ It aims at covering the following implementations in jupyter notebook:
 
 -- Convolutional Neural Network (CNN)
 
-   -- basic convolution
-   
-   -- convolution with dropout
-   
-   -- convolution with batchnorm
-
 -- Recurrent Neural Network (RNN with LSTM, GRU)
 
 -- Generative Neural Network (GAN)
